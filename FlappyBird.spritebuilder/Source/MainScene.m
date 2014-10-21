@@ -181,6 +181,7 @@
                     child.offset = ccp(child.offset.x + 2*cloud.contentSize.width, child.offset.y);
                 }
             }
+        }
     }
     _sinceTouch += delta;
     
