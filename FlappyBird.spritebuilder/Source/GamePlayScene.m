@@ -20,8 +20,7 @@
     timeSinceObstacle += delta; // delta is approximately 1/60th of a second
     
     // Check to see if two seconds have passed
-    if (timeSinceObstacle > 2.0f)
-    {
+    if (timeSinceObstacle > 2.0f) {
         // Add a new obstacle
         [self addObstacle];
         
@@ -32,8 +31,8 @@
 
 // put new methods here
 - (void)touchBegan:(UITouch *)touch withEvent:(UIEvent *)event {
-    [character flap];
     // this will get called every time the player touches the screen
+        [character flap];
 }
 
 @end
