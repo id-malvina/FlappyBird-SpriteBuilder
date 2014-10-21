@@ -229,9 +229,9 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>_cloud2</string>
+				<string>clouds</string>
 				<key>memberVarAssignmentName</key>
-				<string>_bush1</string>
+				<string>_cloud2</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -407,9 +407,9 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>_bush2</string>
+				<string>bush</string>
 				<key>memberVarAssignmentName</key>
-				<string>_bush1</string>
+				<string>_bush2</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
